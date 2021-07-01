@@ -6,3 +6,4 @@
 *.plist
 *.terminal
 Program
+*.out
